@@ -10,8 +10,6 @@ globalvariable property ORD_Smh_AdvancedWorkshop_Global_DisableAdvancedWorkshopM
 function Fragment_0()
 	TryDelete(Alias_ORD_ArmorTableUpgrades)
 	TryDelete(Alias_ORD_GrindstoneUpgrades)
-    Alias_ORD_ArmorTableUpgrades.Clear()
-    Alias_ORD_GrindstoneUpgrades.Clear()
 endFunction
 
 function Fragment_4()
