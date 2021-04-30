@@ -16,11 +16,13 @@
     </Variables>
     <Imports>
         <Import>.\Scripts\Source\</Import>
+        <Import>.\Source\Scripts\</Import>
         <Import>@gamePath\Data\Scripts\Source</Import>
         <Import>@gamePath\Data\Source\Scripts</Import>
     </Imports>
     <Folders>
         <Folder>.\Scripts\Source\</Folder>
+        <Folder>.\Source\Scripts\</Folder>
     </Folders>
     <Packages Output=".">
         <Package Name="@modName.bsa" RootDir=".">
