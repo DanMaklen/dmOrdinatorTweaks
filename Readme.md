@@ -4,6 +4,7 @@ This is a Skyrim Mod. This is intended for personal use mostly.
 ## Changes
 *Smithing*:
 - `Advanced Workshop`: Removed Lockout, can have both at the same time.
+- `Smithing Specialist`: Added additional ranks to unlock for all specializations.
 
 ## Clean Up
 - `prkf_ord_smh40_advancedworks_0103bafe` script: Refactored.
