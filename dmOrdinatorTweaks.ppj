@@ -15,7 +15,6 @@
         <Variable Name="deployPath" Value="C:\Users\DanMaklen\AppData\Roaming\Vortex\skyrimse\mods\DevMod"/>
     </Variables>
     <Imports>
-        <Import>.\Scripts\Source\</Import>
         <Import>.\Source\Scripts\</Import>
         <Import>@gamePath\Data\Scripts\Source</Import>
         <Import>@gamePath\Data\Source\Scripts</Import>

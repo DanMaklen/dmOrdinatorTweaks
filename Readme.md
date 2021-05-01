@@ -15,6 +15,7 @@ This is a Skyrim Mod. This is intended for personal use mostly.
 - `ORD_Smh_AdvancedWorkshop_Package` Package: Removed. Unused.
 - `ORD_Smh_AdvancedWorkshop_Message_Want` Message: Removed. Unused.
 - `ORD_Smh_AdvancedWorkshop_Message_Ok` Message: Removed. Unused.
-
+- `Iron Lore` Perk: Removed most of the unneded abilities and perks.
+- `Iron Lore` Perk: Removed coupling between it and the specialization perks.
 
 - `SneakDetector` mechanism: Replaced with `.IsSneaking()`
