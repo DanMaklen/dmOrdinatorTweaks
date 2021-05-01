@@ -5,6 +5,7 @@ This is a Skyrim Mod. This is intended for personal use mostly.
 *Smithing*:
 - `Advanced Workshop`: Removed Lockout, can have both at the same time.
 - `Smithing Specialist`: Added additional ranks to unlock for all specializations.
+- `Hissing Dragon`: Added a power that changes the element once per day.
 
 ## Clean Up
 - `prkf_ord_smh40_advancedworks_0103bafe` script: Refactored.
