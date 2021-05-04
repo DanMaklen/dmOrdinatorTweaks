@@ -5,7 +5,13 @@ This is a Skyrim Mod. This is intended for personal use mostly.
 *Smithing*:
 - `Advanced Workshop`: Removed Lockout, can have both at the same time.
 - `Smithing Specialist`: Added additional ranks to unlock for all specializations.
-- `Hissing Dragon`: Added a power that changes the element once per day.
+- `Hissing Dragon`: Added a power that lets you change the element once per day.
+- `Nose of Treasure`: Added a power that lets you change the item once per day. Also fixed to use the correct LeveledList
+- `Elemental Specialization`:
+- `Alter Self: Resistances`:
+- `Alter Self: Attributes`:
+- `Welloc's Dormant Arcana`:
+- `Miracle` 
 
 ## Clean Up
 - `prkf_ord_smh40_advancedworks_0103bafe` script: Refactored.
@@ -20,4 +26,4 @@ This is a Skyrim Mod. This is intended for personal use mostly.
 - `Iron Lore` Perk: Removed most of the unneded abilities and perks.
 - `Iron Lore` Perk: Removed coupling between it and the specialization perks.
 
-- `SneakDetector` mechanism: Replaced with `.IsSneaking()`
+- `SneakDetector` mechanism: Partially replaced with `.IsSneaking()`
