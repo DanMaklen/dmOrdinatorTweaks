@@ -61,7 +61,7 @@ bool Function ShouldUseInferno()
 EndFunction
 
 bool Function HandleAdvanced(ObjectReference akTargetRef, ReferenceAlias advancedAlias, Message upgradePrompt, ReferenceAlias setterProxy)
-    If (!advancedAlias.GetRef() && upgradePrompt.Show() == 1)
+    If (!advancedAlias.GetRef() && PlayerRef.GetItemCount(Gold001) >= ORD_Gold && upgradePrompt.Show() == 1)
         PlayerRef.RemoveItem(Gold001, ORD_Gold)
         setterProxy.ForceRefTo(akTargetRef)
         ORD_Smh_AdvancedWorkshop_Marker_Upgrade.Play(akTargetRef)
