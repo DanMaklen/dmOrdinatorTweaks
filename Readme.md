@@ -2,15 +2,22 @@
 This is a Skyrim Mod. This is intended for personal use mostly.
 
 ## Changes
-*Smithing*:
-- `Advanced Workshop`: Removed Lockout, can have both at the same time.
-- `Smithing Specialist`: Added additional ranks to unlock for all specializations.
-- `Hissing Dragon`: Added a power that lets you change the element once per day.
-- `Nose of Treasure`: Added a power that lets you change the item once per day. Also fixed to use the correct LeveledList
-- `Elemental Specialization`:
-- `Alter Self: Resistances`:
-- `Alter Self: Attributes`:
-- `Welloc's Dormant Arcana`:
+- *General*:
+  - Hiding most magic effects from UI. (You already know what you picked).
+- *Smithing*:
+    - `Advanced Workshop`: Removed Lockout, can have both at the same time.
+    - `Smithing Specialist`: Added additional ranks to unlock for all specializations.
+- *Light Armor*:
+    - `Hissing Dragon`: Added a power that lets you change the element once per day.
+- *Lockpicking*:
+    - `Nose of Treasure`: Added a power that lets you change the item once per day. Also fixed to use the correct LeveledList
+- *Pickpocket*:
+    - `Thief's Eye`: Added a power that lets you change the item once per day.
+- *Destruction*:
+    - `Elemental Specialization`: Added additional ranks to unlock all specializations.
+- *Alteration*:
+    - `Alter Self: Resistances`: Added additional ranks to unlock all resistances.
+    - `Alter Self: Attributes`: Added additional ranks to unlock all attributes.
 - `Miracle` 
 
 ## Clean Up
